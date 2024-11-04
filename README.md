@@ -1,5 +1,6 @@
 # StepCounter_ReactExpo
 
+<img src="./expo-go-app.svg" alt="StepCounter" width="600"/>
 ![StepCounter](./expo-go-app.svg) <!-- Optional: Add a logo or banner image -->
 
 A simple, intuitive step counter app built with React Native and Expo. This project demonstrates tracking physical activity by counting steps, integrating with Expo's sensor APIs for real-time data, and presenting information in a user-friendly interface.
