@@ -1,7 +1,6 @@
 # StepCounter_ReactExpo
 
-<img src="./expo-go-app.svg" alt="StepCounter" width="600"/>
-![StepCounter](./expo-go-app.svg) <!-- Optional: Add a logo or banner image -->
+<img src="./expo-go-app.svg" alt="StepCounter" width="500"/>
 
 A simple, intuitive step counter app built with React Native and Expo. This project demonstrates tracking physical activity by counting steps, integrating with Expo's sensor APIs for real-time data, and presenting information in a user-friendly interface.
 
@@ -53,7 +52,7 @@ A simple, intuitive step counter app built with React Native and Expo. This proj
 <!-- Include screenshots here if possible -->
 | Home Screen | Daily Goal |
 | ----------- | ---------- |
-| ![Home Screen](https://example.com/path/to/home_screenshot.png) | ![Daily Goal](https://example.com/path/to/goal_screenshot.png) |
+| ![Home Screen](./walking.json) | ![Daily Goal](./resting.json) |
 
 ## Technologies
 - **React Native**: Cross-platform mobile development framework.
