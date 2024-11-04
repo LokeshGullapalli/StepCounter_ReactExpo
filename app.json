@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "vendidit_expo_stepcounter",
+    "slug": "vendidit_expo_stepcounter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.captainparaboy.vendidit_expo_stepcounter"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1d0fa611-874e-43e5-ae4a-463cc17c354c"
+      }
+    }
+  }
+}
