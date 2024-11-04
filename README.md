@@ -48,11 +48,6 @@ A simple, intuitive step counter app built with React Native and Expo. This proj
 3. **Start Moving**: The app will automatically count your steps in real-time.
 4. **Track Your Progress**: Monitor your steps and see if you meet your daily goal.
 
-## Screenshots
-<!-- Include screenshots here if possible -->
-| Home Screen | Daily Goal |
-| ----------- | ---------- |
-| ![Home Screen](./assets/walking.gif) | ![Daily Goal](./assets/resting.gif) |
 
 ## Technologies
 - **React Native**: Cross-platform mobile development framework.
