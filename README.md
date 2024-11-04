@@ -52,7 +52,7 @@ A simple, intuitive step counter app built with React Native and Expo. This proj
 <!-- Include screenshots here if possible -->
 | Home Screen | Daily Goal |
 | ----------- | ---------- |
-| ![Home Screen](./walking.json) | ![Daily Goal](./resting.json) |
+| ![Home Screen](./walking.gif) | ![Daily Goal](./resting.gif) |
 
 ## Technologies
 - **React Native**: Cross-platform mobile development framework.
